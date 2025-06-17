@@ -4,4 +4,4 @@ SingletonPatternExample
 
 FactoryMethodPatternExample
 ||
-![alt text](image.png)
+![alt text](FMP.png)
