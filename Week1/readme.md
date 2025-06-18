@@ -5,3 +5,7 @@ SingletonPatternExample
 FactoryMethodPatternExample
 ||
 ![alt text](FMP.png)
+
+Ecommerce Search
+||
+![alt text](Ecommerce.png)
