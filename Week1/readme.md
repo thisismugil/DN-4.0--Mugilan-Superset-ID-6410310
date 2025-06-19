@@ -9,3 +9,5 @@ FactoryMethodPatternExample
 Ecommerce Search
 ||
 ![alt text](Ecommerce.png)
+||
+![alt text](FinancialForecast.png)
