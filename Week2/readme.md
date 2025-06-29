@@ -10,3 +10,6 @@ AAA patter
 
 Mocking and stubbing
 ![alt text](MS.png)
+
+Log error:
+![alt text](image.png)
