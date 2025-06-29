@@ -7,3 +7,6 @@ Assertion Junit
 
 AAA patter
 ![alt text](AAA.png)
+
+Mocking and stubbing
+![alt text](MS.png)

@@ -1,8 +1,10 @@
 com\example\StripeAdapter.class
+com\example\ExternalApi.class
 com\example\PayPalGateway.class
 com\example\StripeGateway.class
 com\example\App.class
 com\example\Calculator.class
+com\example\MyService.class
 com\example\PaymentTest.class
 com\example\PaymentProcessor.class
 com\example\PayPalAdapter.class
