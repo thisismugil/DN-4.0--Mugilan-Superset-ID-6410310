@@ -4,3 +4,6 @@ JUnit setup
 
 Assertion Junit
 ![alt text](Assertion.png)
+
+AAA patter
+![alt text](image.png)
