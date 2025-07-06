@@ -9,3 +9,7 @@ Create-Config-maven:
 
 SpringJPA-Quickexmp:
 ![alt text](/Week3/Output-screenshots/SpringJPA-Quickexmp.png)
+
+springJPA2:
+![alt text](/Week3/Output-screenshots/springJPA2.png)
+
