@@ -9,3 +9,15 @@ Rent Below 60000
 
 Rent Above 60000
 ![alt text](/Week7/Output-screenshots/Rental-2.png)
+
+Welcome
+![alt text](/Week7/Output-screenshots/Welcome.png)
+
+Hello member
+![alt text](/Week7/Output-screenshots/Hello-member.png)
+
+Converting
+![alt text](/Week7/Output-screenshots/Converting.png)
+
+Clicked
+![alt text](/Week7/Output-screenshots/Clicked.png)
