@@ -21,3 +21,21 @@ Converting
 
 Clicked
 ![alt text](/Week7/Output-screenshots/Clicked.png)
+
+Login
+![alt text](/Week7/Output-screenshots/Login.png)
+
+Logout
+![alt text](/Week7/Output-screenshots/Logout.png)
+
+All Contents
+![alt text](/Week7/Output-screenshots/All.png)
+
+Book only
+![alt text](/Week7/Output-screenshots/Book.png)
+
+Blog only
+![alt text](/Week7/Output-screenshots/Blog.png)
+
+Course Only
+![alt text](/Week7/Output-screenshots/Course.png)
